@@ -1,14 +1,8 @@
 # ExpenseTracker
-iOS application for tracking your monthly expenses 
-<div align = "center">
-  <img align="center" src= "https://github.com/VinayakBector2002/ExpenseTracker/blob/main/Expense%20Tracker%20Project%20imgs/Screen%20Shot%202022-04-29%20at%2011.30.13%20PM.png" />
-  <img align="center" src= "https://github.com/VinayakBector2002/ExpenseTracker/blob/main/Expense%20Tracker%20Project%20imgs/Screen%20Shot%202022-04-29%20at%2011.17.23%20PM.png" />
-  <img align="center" src= "https://github.com/VinayakBector2002/ExpenseTracker/blob/main/Expense%20Tracker%20Project%20imgs/Screen%20Shot%202022-04-29%20at%2011.18.39%20PM.png" />
- </div>
 
+最近学习SwiftUI，此demo正是通过SwiftUI实现，[视频学习地址](https://www.bilibili.com/video/BV16v4y1M72r/?spm_id_from=333.999.top_right_bar_window_history.content.click&vd_source=540f914c4489452eaeb813b65daccded)
 
-
-## Main Screen 
+## 效果图 
 ### Instances of Application:
 <div align = "center">
   <table>
